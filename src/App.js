@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Router } from "@reach/router";
-import SearchParams from "./SearchParams";
-import Details from "./Details";
+import SearchParams from "./components/SearchParams";
+import Details from "./components/Details";
 
 const App = () => {
   return (
